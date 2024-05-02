@@ -2,20 +2,14 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Hector Oliva, Web developer, Game Developer!
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Hector OG, Mid full stack developer
   </samp>
 </p>
 
-
-<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
-
-
-
-## :pencil2: My Works: :trophy:       
-- [Chat App](https://github.com/CI5KO/chat-app)
-- [React Module Federation](https://github.com/CI5KO/react-mf-app)
-- [Bankist Landing Page](https://github.com/CI5KO/bankist-js)
-- [Next Js 13 PWA Template](https://github.com/CI5KO/Next-Js-PWA)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ci5ko&theme=light&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ci5ko&layout=compact&langs_count=8" height="157em" />
+</div>
 
  ## :trophy: Languages and Tools: :robot:
 
